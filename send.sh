@@ -1,2 +1,3 @@
- scp -Cr ./ glemy0715.iptime.org:~/mc
-
+git add .
+git commit -m 'auto_backup'
+git push
