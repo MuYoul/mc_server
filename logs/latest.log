@@ -1,60 +1,35 @@
-[09:32:27] [User Authenticator #8/INFO]: UUID of player JJangDDung is 13ae593c-0564-4d35-b16e-c762a3410014
-[09:32:27] [Server thread/INFO]: JJangDDung[/100.0.7.3:49477] logged in with entity id 3557094 at (-1823.4718893961833, 100.0, 2797.8133642480093)
-[09:32:27] [Server thread/INFO]: JJangDDung joined the game
-[09:56:46] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[10:42:45] [Server thread/INFO]: BrickDigger15 was slain by Iron Golem
-[11:58:57] [Server thread/INFO]: JJangDDung lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[11:58:57] [Server thread/INFO]: JJangDDung left the game
-[13:18:22] [User Authenticator #9/INFO]: UUID of player JJangDDung is 13ae593c-0564-4d35-b16e-c762a3410014
-[13:18:22] [Server thread/INFO]: JJangDDung[/100.0.7.3:49467] logged in with entity id 3994188 at (-1823.8392724599719, 70.5625, 2812.8233969678276)
-[13:18:22] [Server thread/INFO]: JJangDDung joined the game
-[13:20:01] [User Authenticator #10/INFO]: UUID of player maxchung is 17fc463c-14dc-4bf2-82bc-3ebca6e30825
-[13:20:01] [Server thread/INFO]: maxchung[/200.0.11.58:50467] logged in with entity id 3996426 at (-636.4217851140094, 86.0, 2346.2764601652466)
-[13:20:01] [Server thread/INFO]: maxchung joined the game
-[13:42:59] [Server thread/INFO]: maxchung has just earned the achievement [On A Rail]
-[13:54:03] [Server thread/INFO]: maxchung lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[13:54:03] [Server thread/INFO]: maxchung left the game
-[14:01:27] [User Authenticator #11/INFO]: UUID of player maxchung is 17fc463c-14dc-4bf2-82bc-3ebca6e30825
-[14:01:27] [Server thread/INFO]: maxchung[/200.0.11.58:50707] logged in with entity id 4124515 at (-618.7610787141555, 64.0, 2345.7241075970232)
-[14:01:27] [Server thread/INFO]: maxchung joined the game
-[15:21:03] [Server thread/INFO]: JJangDDung lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[15:21:03] [Server thread/INFO]: JJangDDung left the game
-[16:01:49] [User Authenticator #12/INFO]: UUID of player JJangDDung is 13ae593c-0564-4d35-b16e-c762a3410014
-[16:01:49] [Server thread/INFO]: JJangDDung[/100.0.7.3:50749] logged in with entity id 4541762 at (-1824.0441234710638, 70.0, 2810.69684551545)
-[16:01:49] [Server thread/INFO]: JJangDDung joined the game
-[17:52:29] [Server thread/INFO]: maxchung blew up
-[17:59:55] [Server thread/INFO]: maxchung was slain by Spider
-[18:02:19] [Server thread/INFO]: BrickDigger15 lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[18:02:19] [Server thread/INFO]: BrickDigger15 left the game
-[18:24:40] [Server thread/INFO]: maxchung has just earned the achievement [Repopulation]
-[19:03:43] [Server thread/INFO]: JJangDDung lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[19:03:43] [Server thread/INFO]: JJangDDung left the game
-[19:36:15] [User Authenticator #13/INFO]: UUID of player JJangDDung is 13ae593c-0564-4d35-b16e-c762a3410014
-[19:36:15] [Server thread/INFO]: JJangDDung[/100.0.7.3:51474] logged in with entity id 5256821 at (-1940.3308255146158, 69.0, 2856.1697810145547)
-[19:36:15] [Server thread/INFO]: JJangDDung joined the game
-[19:36:28] [Server thread/INFO]: JJangDDung lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[19:36:28] [Server thread/INFO]: JJangDDung left the game
-[19:38:54] [User Authenticator #14/INFO]: UUID of player JJangDDung is 13ae593c-0564-4d35-b16e-c762a3410014
-[19:38:54] [Server thread/INFO]: JJangDDung[/100.0.7.3:51596] logged in with entity id 5261455 at (-1922.156989548405, 64.0, 2828.9216611862416)
-[19:38:54] [Server thread/INFO]: JJangDDung joined the game
-[19:40:42] [Server thread/INFO]: JJangDDung drowned
-[19:42:36] [User Authenticator #15/INFO]: UUID of player BrickDigger15 is 3e82dc0c-dca0-4845-b0e6-d7a16315d447
-[19:42:36] [Server thread/INFO]: BrickDigger15[/100.0.10.11:42895] logged in with entity id 5269640 at (-1445.5, 69.0999984741211, 2416.5)
-[19:42:36] [Server thread/INFO]: BrickDigger15 joined the game
-[20:00:42] [Server thread/INFO]: BrickDigger15 was shot by Skeleton
-[20:05:08] [Server thread/INFO]: maxchung fell from a high place
-[20:25:24] [Server thread/INFO]: BrickDigger15 tried to swim in lava
-[20:25:26] [Server thread/INFO]: JJangDDung tried to swim in lava
-[20:37:16] [Server thread/INFO]: BrickDigger15 was slain by Zombie Pigman
-[20:37:38] [Server thread/INFO]: JJangDDung lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[20:37:38] [Server thread/INFO]: JJangDDung left the game
-[20:38:01] [Server thread/INFO]: BrickDigger15 lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[20:38:01] [Server thread/INFO]: BrickDigger15 left the game
-[20:47:55] [Server thread/INFO]: maxchung has just earned the achievement [Enchanter]
-[20:49:14] [Server thread/INFO]: maxchung lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[20:49:14] [Server thread/INFO]: maxchung left the game
-[20:49:24] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[20:49:24] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[20:49:24] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[20:49:26] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[20:49:26] [Server Shutdown Thread/INFO]: Stopping server
+[15:18:09] [User Authenticator #10/INFO]: UUID of player maxchung is 17fc463c-14dc-4bf2-82bc-3ebca6e30825
+[15:18:09] [Server thread/INFO]: maxchung[/200.0.11.58:63031] logged in with entity id 2046876 at (-650.9722624516763, 66.0, 2324.906938140735)
+[15:18:09] [Server thread/INFO]: maxchung joined the game
+[15:29:44] [User Authenticator #11/INFO]: UUID of player JJangDDung is 13ae593c-0564-4d35-b16e-c762a3410014
+[15:29:44] [Server thread/INFO]: JJangDDung[/100.0.7.3:49922] logged in with entity id 2074018 at (-650.8366727766514, 66.0, 2326.38143068839)
+[15:29:44] [Server thread/INFO]: JJangDDung joined the game
+[16:47:45] [Server thread/INFO]: maxchung tried to swim in lava to escape Ghast
+[16:51:52] [Server thread/INFO]: maxchung was burnt to a crisp whilst fighting Ghast
+[17:02:51] [Server thread/INFO]: maxchung has just earned the achievement [Return to Sender]
+[17:08:50] [Server thread/INFO]: maxchung tried to swim in lava to escape Ghast
+[18:01:44] [Server thread/INFO]: JJangDDung lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[18:01:44] [Server thread/INFO]: JJangDDung left the game
+[18:03:45] [User Authenticator #12/INFO]: UUID of player JJangDDung is 13ae593c-0564-4d35-b16e-c762a3410014
+[18:03:45] [Server thread/INFO]: JJangDDung[/100.0.7.2:52772] logged in with entity id 2537735 at (-1823.554631622198, 70.0, 2810.148483247796)
+[18:03:45] [Server thread/INFO]: JJangDDung joined the game
+[18:05:27] [Server thread/INFO]: JJangDDung lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[18:05:27] [Server thread/INFO]: JJangDDung left the game
+[18:06:31] [User Authenticator #13/INFO]: UUID of player JJangDDung is 13ae593c-0564-4d35-b16e-c762a3410014
+[18:06:32] [Server thread/INFO]: JJangDDung[/100.0.7.2:52834] logged in with entity id 2542559 at (-1820.8765228358004, 70.0, 2807.343663125752)
+[18:06:32] [Server thread/INFO]: JJangDDung joined the game
+[18:21:37] [Server thread/INFO]: maxchung tried to swim in lava to escape Ghast
+[18:24:07] [Server thread/WARN]: JJangDDung moved wrongly!
+[18:35:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2353ms behind, skipping 47 tick(s)
+[18:46:51] [Server thread/INFO]: JJangDDung lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[18:46:51] [Server thread/INFO]: JJangDDung left the game
+[18:48:00] [User Authenticator #14/INFO]: UUID of player JJangDDung is 13ae593c-0564-4d35-b16e-c762a3410014
+[18:48:00] [Server thread/INFO]: JJangDDung[/100.0.7.2:52883] logged in with entity id 2668099 at (-1819.4134329307315, 81.0, 2796.88676772156)
+[18:48:00] [Server thread/INFO]: JJangDDung joined the game
+[18:54:51] [Server thread/INFO]: maxchung tried to swim in lava to escape Ghast
+[19:37:24] [Server thread/INFO]: maxchung lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[19:37:24] [Server thread/INFO]: maxchung left the game
+[19:39:25] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[19:39:25] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[19:39:26] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[19:39:26] [Server thread/INFO]: Unknown command. Try /help for a list of commands
